@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Suggest an idea for this project
-title: ''
+title: "[feature-request]: "
 labels: feature-request
 assignees: alisamadiii
 
@@ -18,14 +18,3 @@ assignees: alisamadiii
 
 ## Additional Context
 <!-- Add any other context, screenshots, or examples about the feature request here -->
-
-## Implementation Ideas (Optional)
-<!-- If you have any specific ideas about how to implement this feature, share them here -->
-
-## Potential Impact
-<!-- How would this feature benefit users? Are there any potential drawbacks? -->
-
-## Checklist
-- [ ] I have searched for existing feature requests
-- [ ] I have provided clear context for the feature
-- [ ] I have explained the value this feature would add
